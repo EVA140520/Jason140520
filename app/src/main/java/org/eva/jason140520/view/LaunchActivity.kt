@@ -1,6 +1,8 @@
 package org.eva.jason140520.view
 
 import android.os.Bundle
+import android.view.Window
+import androidx.appcompat.app.ActionBar
 import androidx.appcompat.app.AppCompatActivity
 import org.eva.jason140520.R
 
@@ -18,6 +20,7 @@ class LaunchActivity: AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        supportActionBar?.hide()//隐藏ActionBar
         setContentView(R.layout.activity_launch)
     }
 }
