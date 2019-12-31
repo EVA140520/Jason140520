@@ -57,6 +57,7 @@ dependencies {
     implementation 'com.squareup.okio:okio:2.4.3'
     implementation 'com.squareup.okhttp3:okhttp:4.2.2'
     implementation 'com.google.dagger:dagger:2.25.4'
+    implementation 'com.google.android.material:material:1.0.0'
     //implementation 'androidx.security:security-crypto:1.0.0-alpha02'
     kapt 'com.github.bumptech.glide:compiler:4.10.0'
     kapt  'androidx.room:room-compiler:2.2.3'

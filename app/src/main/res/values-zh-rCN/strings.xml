@@ -2,4 +2,10 @@
 <resources>
     <string name="app_name">Jason140520</string>
     <string name="launch_copyright">版权信息</string>
+    <string name="Main">首页</string>
+    <string name="Type">分类</string>
+    <string name="Order">需求</string>
+    <string name="Shopping">购物车</string>
+    <string name="Me">我的</string>
+    <string name="imagedesc">博测</string>
 </resources>

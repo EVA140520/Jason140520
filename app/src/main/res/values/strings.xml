@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">Jason140520</string>
     <string name="launch_copyright">Copyright</string>
+    <string name="Main">main</string>
+    <string name="Type">type</string>
+    <string name="Order">order</string>
+    <string name="Shopping">shopping</string>
+    <string name="Me">me</string>
+    <string name="imagedesc">seaahc</string>
 </resources>
