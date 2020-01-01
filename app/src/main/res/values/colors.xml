@@ -9,9 +9,10 @@
     <color name="orange">#FF7F00</color>
     <color name="yellow">#FFFF00</color>
     <color name="green">#00FF00</color>
-    <color name="Cyan">#00FFFF</color>
+    <color name="cyan">#00FFFF</color>
     <color name="blue">#0000FF</color>
     <color name="purple">#8B00FF</color>
+    <color name="black">#000000</color>
 
     <color name="menu_backgrounp_color">#F5F5F5</color>
     <color name="menu_select_color">#3FC1C9</color>
